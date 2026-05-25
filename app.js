@@ -17,8 +17,8 @@ app.use(helmet());
 app.use(
   cors({
     origin: [
-      "http://localhost:3000"
-    //   "https://bank-reviews-frontend.vercel.app",
+      "http://localhost:3000",
+       "https://college-review-frontend-1.vercel.app/",
     ],
     credentials: true,
   })
