@@ -54,8 +54,9 @@ A RESTful API for a college review platform built with Node.js, Express, and Mon
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/yourusername/college-review-api.git
-   cd college-review-api
+   git clone https://github.com/M1Darsan2/college_review_backend.git
+   cd college-review
+   cd backend
 ```
 
 2. Install dependencies
