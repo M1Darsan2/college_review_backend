@@ -83,3 +83,17 @@ A RESTful API for a college review platform built with Node.js, Express, and Mon
 | `MONGO_URI` | MongoDB connection string |
 
 ## Project Structure
+├── controllers/
+│   ├── reviewController.js
+│   └── collegeController.js
+├── models/
+│   ├── reviewModel.js
+│   └── collegeModel.js
+├── routes/
+│   ├── reviewRoutes.js
+│   └── collegeRoutes.js
+├── utils/
+│   ├── appError.js
+│   └── catchAsync.js
+├── app.js
+└── server.js
